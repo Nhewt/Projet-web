@@ -1,0 +1,21 @@
+header
+{
+  background-color: #dddddd;
+  margin-top: 2%;
+  margin-right: 5%; 
+}
+
+footer
+{
+  background-color: #dddddd;
+  text-align: center;
+}
+
+footer+img
+{
+  dispaly: inline-block;
+  vertical-align: left;
+  margin-bottom: 2%;
+  margin-right: 5%; 
+}
+  
